@@ -10,7 +10,6 @@
 import os
 import transformers
 import torch
-from google.colab import userdata
 from datasets import load_dataset
 from trl import SFTTrainer
 from peft import LoraConfig
