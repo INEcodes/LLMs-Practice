@@ -1,0 +1,10 @@
+# Ignore environment files (all .env variants)
+.env
+.env.*
+*.env
+
+
+
+# If .env files were previously committed, untrack them:
+# git rm --cached .env
+# git rm --cached path/to/other.env
