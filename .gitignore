@@ -2,8 +2,8 @@
 .env
 .env.*
 *.env
-
-
+__pycache__
+.adk
 
 # If .env files were previously committed, untrack them:
 # git rm --cached .env
